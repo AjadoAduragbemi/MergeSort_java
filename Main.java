@@ -3,7 +3,7 @@ import java.util.*;
 
 /**
  *
- * @author dell
+ * @author Aduragbemi Joseph (Wells)
  */
 public class Main {
     public static void main(String[] args) {
