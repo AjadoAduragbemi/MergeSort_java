@@ -1,4 +1,5 @@
-import MergeSort;
+package mergesort;
+
 import java.util.*;
 
 /**
