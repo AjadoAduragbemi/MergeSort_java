@@ -1,3 +1,5 @@
+package mergesort
+
 import java.util.*;
 
 public class MergeSort<T extends Comparable<T>> {
